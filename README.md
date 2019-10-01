@@ -1,3 +1,6 @@
+SatyaSys launched Healthcare Analytics token for catering to it's "Patient Analytics" system.
+The system is designed to find minimum diagnostics required to derive prescription and minimum medicines to cure symptoms. Patients can take informed decision on which diagnostics to undergo, which medicines to take to diagnose and cure symptoms.The patent for the system is granted by "IP Australia". 
+
 Crypto investors are now sick of useless ICOs raising millions of dollars and then vanishing in oblivion in three to six months.
 We launched ITS(IT Services) coin to disrupt cryptocurrency market by providing real IT service in   exchange of our token.
 ITS is the first crypto token catering to trillion dollar IT service industry. ITS represents 1 minutes of IT service(Be it application,   security testing, java, android, web development,graphic designing, code review, blockchain development, etc.)
